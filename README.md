@@ -9,3 +9,15 @@
 
 ## Link to the dataset
 url: [](), password: 
+
+## Citation
+If you use this dataset for your research, please cite as follows.
+```
+@misc{pcd-pcl,
+    author= {Dingquan Li},
+    year  = {2022},
+    title = {A High-Quality Colored Point Cloud Dataset},
+    note  = {\url{https://github.com/lidq92/PCD-PCL}, 
+             Last accessed on 2022-06-23},
+}
+```

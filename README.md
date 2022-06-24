@@ -8,7 +8,7 @@
 4. To use them as the input for AVS-PCC PCRM or MPEG G-PCC, use `quantization_process.py` for quantizing them to a suitable level (where a further quantization will lose many points).
 
 ## Link to download the dataset
-url: [PCD-PCL](https://pan.baidu.com/s/1I2hgnW4Xepaq6oMTVtAT0g?pwd=cyb5)
+url: [PCD-PCL](https://pan.baidu.com/s/1I2hgnW4Xepaq6oMTVtAT0g?pwd=cyb5) includes a total of 80 static point clouds.
 
 ## Citation
 If you use this dataset for your research, please cite it as follows.

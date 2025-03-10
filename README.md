@@ -14,7 +14,7 @@ url: [PCD-PCL](https://pan.baidu.com/s/1I2hgnW4Xepaq6oMTVtAT0g?pwd=cyb5) include
 If you use this dataset for your research, please cite it as follows.
 ```
 @misc{pcd-pcl,
-    author= {Dingquan Li, Jing Wang, and Ge Li},
+    author= {Li, Dingquan and Wang, Jing and Li, Ge},
     year  = {2022},
     title = {A High-Quality Colored Point Cloud Dataset},
     note  = {\url{https://github.com/lidq92/PCD-PCL}, 

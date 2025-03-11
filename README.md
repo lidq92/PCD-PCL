@@ -1,5 +1,5 @@
 # PCD-PCL
- A High-Quality Colored Point Cloud Dataset Provided by Peng Cheng Laboratory (mainly for AVS PCC and PCQA)
+ A High-Quality Colored Point Cloud Dataset Provided by Pengcheng Laboratory (mainly for AVS PCC and PCQA)
 
 ## How we get the colored point clouds? 
 1. Open [SketchFab](https://sketchfab.com) -> Explore -> Downloadable -> Filters (**LICENSES: CC BY & CC BY-SA & CC0**) -> CATEGORIES (e.g., Cultural Heritage & History) -> Choose high-quality 3D mesh models with diverse contents -> Download glTF files (Thanks for the providers of these 3D models!)
